@@ -14,9 +14,11 @@ body {
 }
 
 .mainTime {
+  padding: 30px;
+  width: 100%;
   display: block;
 }
 
 .otherTime {
-  display: flex;
+  padding: 20px 10%;
 }
