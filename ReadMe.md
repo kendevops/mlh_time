@@ -2,4 +2,4 @@
 
 This time website was generated because of the different time Zones of People working together in this Pod.
 
-[Click here]() to run the demo of the time.
+[Click here](http://kendevops.github.io/mlh_time/) to run the demo of the time.
