@@ -1,5 +1,5 @@
 ## MLH Pod 0.2.1 Hacking Clock
 
-This time website was generated because of the different time Zones of People working together in this Pod.
+A Quick timezone project to help Fellows Timezone difference for Fellows in the Javascript Pod.
 
 [Click here](http://kendevops.github.io/mlh_time/) to run the demo of the time.
